@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>AudioPlayList</title>
+		<link>https://www.youtube.com/playlist?list=PLtq8bMksaTvDALkaM9osYWFGxYVRt5-LQ</link>
+		<description>Audio feed for AudioPlayList</description>
+		<atom:link href="https://www.youtube.com/playlist?list=PLtq8bMksaTvDALkaM9osYWFGxYVRt5-LQ" rel="self"/>
+		<docs>http://www.rssboard.org/rss-specification</docs>
+		<generator>python-feedgen</generator>
+		<language>en</language>
+		<lastBuildDate>Mon, 03 Mar 2025 13:26:19 +0000</lastBuildDate>
+		<item>
+			<title>Germany fast-tracks its military buildup | Berlin Briefing Podcast</title>
+			<link>https://www.youtube.com/watch?v=Nup1ABYb1Mw</link>
+			<description>Germany fast-tracks its military buildup | Berlin Briefing Podcast</description>
+			<enclosure url="https://ttisftp.blob.core.windows.net/myyellow/Nup1ABYb1Mw.mp3" length="0" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>Mostly Civilized: A Hex-Based 4x Game Engine for Unity - Part 1</title>
+			<link>https://www.youtube.com/watch?v=j-rCuN7uMR8</link>
+			<description>Mostly Civilized: A Hex-Based 4x Game Engine for Unity - Part 1</description>
+			<enclosure url="https://ttisftp.blob.core.windows.net/myyellow/j-rCuN7uMR8.mp3" length="0" type="audio/mpeg"/>
+		</item>
+	</channel>
+</rss>
